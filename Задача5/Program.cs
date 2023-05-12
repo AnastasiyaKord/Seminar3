@@ -5,7 +5,6 @@
 // A (3,6); B (2,1) -> 5,09 
 // A (7,-5); B (1,-1) -> 7,21
 
-
 Console.WriteLine ("Введите координаты по оси х первой точки");
 double x1 = Convert.ToDouble(Console.ReadLine());
 
